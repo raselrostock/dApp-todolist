@@ -8,7 +8,7 @@ module.exports = {
   },
   solc: {
     optimizer: {
-      enabled: truegit,
+      enabled: true,
       runs: 200
     }
   }
